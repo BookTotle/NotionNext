@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '取势明道优术，践行合众乐业', url: 'https://docs.tangly1024.com' }
+    { title: '登高贵在少年时 为学应尽毕生力', url: 'https://docs.tangly1024.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '记录取经之路',
+  HEO_HERO_TITLE_2: '与通关文牒',
   HEO_HERO_TITLE_3: 'BLICJI.CN',
   HEO_HERO_TITLE_4: 'NotionNext4.5上线，笔记也能建站',
   HEO_HERO_TITLE_5: '打怪升级涨经验 破界跨界闯世界',

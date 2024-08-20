@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '记录取经之路',
-  HEO_HERO_TITLE_2: '与通关文牒',
+  HEO_HERO_TITLE_1: '初代大学生的',
+  HEO_HERO_TITLE_2: '取经之路',
   HEO_HERO_TITLE_3: 'BLICJI.CN',
   HEO_HERO_TITLE_4: 'NotionNext4.5上线，笔记也能建站',
   HEO_HERO_TITLE_5: '打怪升级涨经验 破界跨界闯世界',

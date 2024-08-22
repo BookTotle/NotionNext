@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '初代大学生的',
   HEO_HERO_TITLE_2: '取经之地',
   HEO_HERO_TITLE_3: 'BLICJI.CN',
-  HEO_HERO_TITLE_4: 'NotionNext4.5上线，笔记也能建站',
+  HEO_HERO_TITLE_4: '晨兴理荒秽，带月荷锄归',
   HEO_HERO_TITLE_5: '打怪升级涨经验 破界跨界闯世界',
-  HEO_HERO_TITLE_LINK: 'https://blog.zhheo.com/',
+  HEO_HERO_TITLE_LINK: 'https://www.blicji.cn/article/example-2',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },

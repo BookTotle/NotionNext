@@ -16,11 +16,11 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '初代大学生的',
-  HEO_HERO_TITLE_2: '取经之路',
+  HEO_HERO_TITLE_2: '取经之地',
   HEO_HERO_TITLE_3: 'BLICJI.CN',
   HEO_HERO_TITLE_4: 'NotionNext4.5上线，笔记也能建站',
   HEO_HERO_TITLE_5: '打怪升级涨经验 破界跨界闯世界',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://blog.zhheo.com/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
